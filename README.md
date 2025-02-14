@@ -1,4 +1,5 @@
 # Auth App
+![image](https://github.com/user-attachments/assets/583f4519-3003-498a-b679-42f0b81338cd)
 
 A simple authentication API built with Express.js, MongoDB, and JWT for handling user registration, login, and searching users.
 
@@ -19,6 +20,7 @@ A simple authentication API built with Express.js, MongoDB, and JWT for handling
 
 ### Clone the repo:
 ```sh
+
 
 
 
