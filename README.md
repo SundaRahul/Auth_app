@@ -26,6 +26,6 @@ A simple authentication API built with Express.js, MongoDB, and JWT for handling
 npm install
 
 
-[Screenshot 2025-02-15 005008](https://github.com/user-attachments/assets/5b66c769-7895-4125-b283-54ec40b2a30f)
+
 
 
