@@ -20,7 +20,10 @@ A simple authentication API built with Express.js, MongoDB, and JWT for handling
 ### Clone the repo:
 ```sh
 
-![image](https://github.com/user-attachments/assets/9ae642e8-578c-4219-8980-578e2df97528)
+
 
 ## install dependencies
 npm install
+
+![Screenshot 2025-02-15 005029](https://github.com/user-attachments/assets/76edd7a7-6417-497f-8cb1-160c7ca3b3ff)
+
