@@ -1,4 +1,12 @@
 # Auth App
+##Postman Testing
+###SignUp
+![image](https://github.com/user-attachments/assets/977e51bf-00bb-4898-8c72-631d944e3bb1)
+
+###Login
+![image](https://github.com/user-attachments/assets/779879f4-71ca-4285-af57-a88af551602c)
+
+###Search
 ![image](https://github.com/user-attachments/assets/583f4519-3003-498a-b679-42f0b81338cd)
 
 A simple authentication API built with Express.js, MongoDB, and JWT for handling user registration, login, and searching users.
