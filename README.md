@@ -28,7 +28,6 @@ npm install
 
 
 
-![Screenshot 2025-02-15 005029](https://github.com/user-attachments/assets/beb8c9c2-b2bc-488b-b223-cae121922cff)
-![Screenshot 2025-02-15 005022](https://github.com/user-attachments/assets/17d9379b-4025-4ce7-b648-92d4c5023a53)
-![Screenshot 2025-02-15 005008](https://github.com/user-attachments/assets/e0bdc98d-fef5-4968-a2eb-78335713c195)
+![image](https://github.com/user-attachments/assets/d41dfb35-31f1-4bb3-96b4-463b1f508905)
+
 
