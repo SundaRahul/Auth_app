@@ -24,6 +24,11 @@ A simple authentication API built with Express.js, MongoDB, and JWT for handling
 - JWT Authentication
 - Joi for Input Validation
 
+## .env File
+
+- add MONGODB Url
+- Add JWT_SECRET for jwt token
+
 ## Installation
 
 ### Clone the repo:
@@ -38,6 +43,6 @@ npm install
 
 
 
-![image](https://github.com/user-attachments/assets/d41dfb35-31f1-4bb3-96b4-463b1f508905)
+
 
 
